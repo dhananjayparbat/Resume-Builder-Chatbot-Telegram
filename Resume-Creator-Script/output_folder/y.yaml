@@ -1,0 +1,3 @@
+inherit:
+  - $/component/output.yaml
+primary color: 008080

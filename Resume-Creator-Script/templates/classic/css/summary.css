@@ -1,0 +1,6 @@
+.summary{
+    font-size: 1.5rem;
+    padding: 1rem;
+    box-shadow: 0.5rem 0.3rem 0 0 var(--primary-color),
+              -0.2rem 0 0 0 var(--primary-color);
+}

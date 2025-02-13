@@ -1,0 +1,29 @@
+education:
+  Artificial Intelligence , Bachlor's Degree , GHRIETN:
+  - 2021-2025
+experience:
+  Intern SQL developer , Unisoft:
+  - Aug 2023 - Oct 2023
+  - Managed Oracle SQL database
+full name: Bhuvneshwar Ghate
+job title: Programmer
+links:
+  '+917827492749': tel:+917827492749
+  GitHub: www.github.com
+  LinkedIn: www.linkedin.com
+  Portfolio: www.portfolio.com
+  bhuvneshwar@gmail.com: mailto:bhuvneshwar@gmail.com
+not_links:
+- Nagpur | India
+projects:
+  Resume Builder Chatbot:
+  - Automatic creator of resumes using telegram for inputs to fill templates.
+  - Python
+skills:
+- SQL
+- Python
+- C
+- Cpp
+summary: Backend Developer, and Artificial Intelligence  student with experince with
+  SQL and backend technologies, cloud, linux and teamwork.
+template: fancy2
